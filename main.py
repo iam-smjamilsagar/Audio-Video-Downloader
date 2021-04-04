@@ -5,7 +5,7 @@ import pafy
 
 window = Tk()
 window.iconphoto(False, PhotoImage(file='icon.jpg'))
-window.title('  Audio/Video Downloader form Youtube')
+window.title('  Audio/Video Downloader from Youtube')
 
 
 # audio part
