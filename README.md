@@ -13,3 +13,11 @@
 6. Copy link from youtube and paste there.
 7. Then press Download button.
 8. Downloaded file will be saved in your directory.
+
+# ScreenShots:
+<img src="ss/ss1.PNG" alt="Screenshot-01">
+<img src="ss/ss2.PNG" alt="Screenshot-02">
+<img src="ss/ss3.PNG" alt="Screenshot-03">
+<img src="ss/ss4.PNG" alt="Screenshot-04">
+
+
